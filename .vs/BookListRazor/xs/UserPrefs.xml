@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{006D937D-2C43-4AD2-9471-0E3227DD25F1}|BookListRazor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookListRazor/Model/ApplicationDbContext.cs">
+    <Files>
+      <File FileName="BookListRazor/Model/ApplicationDbContext.cs" Line="16" Column="1" />
+      <File FileName="BookListRazor/Startup.cs" />
+      <File FileName="BookListRazor/Pages/BookList/Edit.cshtml" />
+      <File FileName="BookListRazor/Pages/BookList/Edit.cshtml.cs" />
+      <File FileName="BookListRazor/Controllers/BookController.cs" />
+      <File FileName="BookListRazor/wwwroot/js/bookList.js" />
+      <File FileName="BookListRazor/Pages/BookList/Index.cshtml" />
+      <File FileName="BookListRazor/Model/Book.cs" />
+      <File FileName="BookListRazor/Migrations/ApplicationDbContextModelSnapshot.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookListRazor" expanded="True">
+            <Node name="BookListRazor" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="ApplicationDbContext.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BookListRazor PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
